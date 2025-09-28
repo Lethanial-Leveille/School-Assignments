@@ -13,12 +13,10 @@ COP3502C/
 ├── (L3) Scientific Calculator
 └── (L4) Functions
 
-markdown
-Copy code
-
 ## 🧪 Topics Covered
 - Basic input & output  
 - Conditional statements  
 - Loops & iteration  
 - Functions  
 - Small applications (e.g., scientific calculator) 
+
