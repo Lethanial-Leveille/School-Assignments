@@ -1,22 +1,46 @@
-# COP3502C – Programming Fundamentals  
+# 🎓 UF Computer Engineering Coursework  
 
-This folder contains my coursework for **COP3502C (Programming Fundamentals)** at the University of Florida.  
-Assignments are written in **Python 3**.  
+Welcome! This repository contains my coding assignments and projects completed as part of the **University of Florida Computer Engineering (Class of 2029)** curriculum.  
 
-## 📂 Structure
-COP3502C/
-├── (L1) Input-Output
-│ ├── Lab1_A.py
-│ ├── Lab1_B.py
-│ └── Lab1_C.py
-├── (L2) Conditionals
-├── (L3) Scientific Calculator
-└── (L4) Functions
+Each course has its own folder with labs, assignments, and notes.  
 
-## 🧪 Topics Covered
-- Basic input & output  
-- Conditional statements  
-- Loops & iteration  
-- Functions  
-- Small applications (e.g., scientific calculator) 
+---
 
+## 📂 Repository Layout  
+
+- **COP3502C – Programming Fundamentals (Python)**  
+  - Input/Output  
+  - Conditionals  
+  - Scientific Calculator  
+  - Functions  
+
+- **COT3100 – Discrete Structures**  
+  - Topics: logic, sets, relations, combinatorics, proofs  
+
+- **COP3503C – Data Structures & Algorithms (C++)**  
+  - Topics: linked lists, stacks/queues, trees, graphs, complexity analysis  
+
+- **Future Courses**  
+  - More coursework will be added each semester as I progress  
+
+---
+
+## 🛠️ Languages & Tools Learned
+- **Python 3** → Programming Fundamentals, Discrete Structures  
+- **C++** → Data Structures & Algorithms  
+- **Java** → Potential in later courses  
+- **HTML / CSS / JavaScript** → For elective and project-based coursework  
+
+---
+
+## 📑 Purpose
+This repository documents my academic progress and practice in computer science & engineering foundations.  
+- 📘 **Organized by course & semester**  
+- 🧪 **Hands-on coding exercises, labs, and mini-projects**  
+- 🌱 **Demonstrates growth across multiple programming languages**  
+
+---
+
+## 🚀 Related Projects
+For projects with real-world applications, check out:  
+- [GatorHall](https://github.com/gator-hall/gator-hall) → a dorm review web app for UF students  
