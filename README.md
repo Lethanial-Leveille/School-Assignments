@@ -1,9 +1,24 @@
-# School Assignments
+# COP3502C – Programming Fundamentals  
 
-This repository contains my coursework and lab projects for various computer science classes.  
-It includes assignments, labs, and practice exercises across multiple courses, ranging from introductory programming (COP3502C) to more advanced topics like Data Structures and Algorithms (DSA).
+This folder contains my coursework for **COP3502C (Programming Fundamentals)** at the University of Florida.  
+Assignments are written in **Python 3**.  
 
-Folders are organized by class and by individual lab/project for easy reference.
+## 📂 Structure
+COP3502C/
+├── (L1) Input-Output
+│ ├── Lab1_A.py
+│ ├── Lab1_B.py
+│ └── Lab1_C.py
+├── (L2) Conditionals
+├── (L3) Scientific Calculator
+└── (L4) Functions
 
-> Note: Some folders may contain starter code, completed assignments, or examples for learning purposes.
+markdown
+Copy code
 
+## 🧪 Topics Covered
+- Basic input & output  
+- Conditional statements  
+- Loops & iteration  
+- Functions  
+- Small applications (e.g., scientific calculator) 
