@@ -3,4 +3,4 @@ project(COP3503)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(COP3503 "(L1) Data Visualization.cpp")
+add_executable(COP3503 "Lab1_DataVisualization.cpp")
